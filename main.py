@@ -34,7 +34,7 @@ class AsyncBrowserThread(threading.Thread):
         self.playwright = await async_playwright().start()
         self.browser = await self.playwright.chromium.launch(
             headless=True,
-            channel="chrome",
+            # channel="chrome",
             args=[
                 '--disable-blink-features=AutomationControlled',
                 '--no-sandbox',
