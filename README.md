@@ -11,7 +11,7 @@
 
 <div align="center">
   <h3>Watch the Full Tutorial on YouTube</h3>
-  <a href="https://youtube.com/e_9tMLRXeKY"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Tutorial" /></a>
+  <a href="https://www.youtube.com/watch?v=e_9tMLRXeKY"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Tutorial" /></a>
   <br>
   <em>Learn how to install, set up, and build AI workflows with mse_ai_api</em>
 </div>
