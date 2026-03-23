@@ -9,4 +9,5 @@ services:
       - "7777:7777"
     environment:
       - API_SECRET_KEY=change-secret-key-2026
+      - ANTHROPIC_API_KEY=${ANTHROPIC_API_KEY}
       - PYTHONUNBUFFERED=1
